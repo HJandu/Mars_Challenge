@@ -25,7 +25,7 @@ Finally, I exported the data to JSON file and saved them as <a href="https://git
 
 </br>
 
-To see the full code written in this part check <a href="https://github.com/HJandu/Mars_Challenge/blob/main/part_1_mars_news.ipynb">mars_data_challenge_part_1.ipynb</a>
+To see the full code written in this part click <a href="https://github.com/HJandu/Mars_Challenge/blob/main/part_1_mars_news.ipynb">mars_data_challenge_part_1.ipynb</a>
 </br>
 
 **2. Scrape and Analyze Mars Weather Data** </br>
@@ -41,14 +41,14 @@ After creating a DataFrame, I anaylsed and created visualisations to answer the 
 
 ![Screen Shot 2023-01-18 at 23 41 19](https://user-images.githubusercontent.com/116304118/213319709-ece1c11b-b289-4977-a775-21475b561181.png)
 
-- About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
+- About how many terrestrial (Earth) days exist in a Martian year?
 
 </br>
 Finally, the last step was to export our data as <a href="https://github.com/HJandu/Mars_Challenge/blob/main/Temp_table_mars.csv">mars_table.csv</a>
 
 </br>
 
-To see the full code written to do this part check <a href="https://github.com/HJandu/Mars_Challenge/blob/main/part_2_mars_weather.ipynb">mars_data_challenge_part_2.ipynb</a>
+To see the full code written to do this part click <a href="https://github.com/HJandu/Mars_Challenge/blob/main/part_2_mars_weather.ipynb">mars_data_challenge_part_2.ipynb</a>
 
 </br>
 
