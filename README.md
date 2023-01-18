@@ -11,7 +11,7 @@ As you work on this Challenge, I have strengthened the same core skills that I h
 - Data Source: </br>
 <a href="https://static.bc-edx.com/data/web/mars_news/index.html">Mars News</a>  </br>
 <a href="https://static.bc-edx.com/data/web/mars_facts/temperature.html">Mars Temperature Data</a>  </br>
-- Software: Python 3.7.13, Jupyter Notebook. 
+ 
 
 ## Analysis of Data and Results
 **1. Scrape Titles and Preview Text from Mars News** </br>
